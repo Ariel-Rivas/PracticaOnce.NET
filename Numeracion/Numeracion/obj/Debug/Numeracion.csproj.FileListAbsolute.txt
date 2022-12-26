@@ -1,0 +1,7 @@
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Numeracion\Numeracion\bin\Debug\Numeracion.exe.config
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Numeracion\Numeracion\bin\Debug\Numeracion.exe
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Numeracion\Numeracion\bin\Debug\Numeracion.pdb
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Numeracion\Numeracion\obj\Debug\Numeracion.csprojAssemblyReference.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Numeracion\Numeracion\obj\Debug\Numeracion.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Numeracion\Numeracion\obj\Debug\Numeracion.exe
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Numeracion\Numeracion\obj\Debug\Numeracion.pdb

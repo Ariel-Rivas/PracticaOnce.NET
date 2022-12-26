@@ -1,0 +1,7 @@
+C:\Users\ariel\source\repos\PracticaOnce-ejer-03\PracticaOnce-ejer-03\bin\Debug\PracticaOnce-ejer-03.exe.config
+C:\Users\ariel\source\repos\PracticaOnce-ejer-03\PracticaOnce-ejer-03\bin\Debug\PracticaOnce-ejer-03.exe
+C:\Users\ariel\source\repos\PracticaOnce-ejer-03\PracticaOnce-ejer-03\bin\Debug\PracticaOnce-ejer-03.pdb
+C:\Users\ariel\source\repos\PracticaOnce-ejer-03\PracticaOnce-ejer-03\obj\Debug\PracticaOnce-ejer-03.csprojAssemblyReference.cache
+C:\Users\ariel\source\repos\PracticaOnce-ejer-03\PracticaOnce-ejer-03\obj\Debug\PracticaOnce-ejer-03.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\PracticaOnce-ejer-03\PracticaOnce-ejer-03\obj\Debug\PracticaOnce-ejer-03.exe
+C:\Users\ariel\source\repos\PracticaOnce-ejer-03\PracticaOnce-ejer-03\obj\Debug\PracticaOnce-ejer-03.pdb

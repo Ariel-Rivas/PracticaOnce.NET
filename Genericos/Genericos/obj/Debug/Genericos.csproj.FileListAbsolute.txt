@@ -1,0 +1,7 @@
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Genericos\Genericos\bin\Debug\Genericos.exe.config
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Genericos\Genericos\bin\Debug\Genericos.exe
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Genericos\Genericos\bin\Debug\Genericos.pdb
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Genericos\Genericos\obj\Debug\Genericos.csprojAssemblyReference.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Genericos\Genericos\obj\Debug\Genericos.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Genericos\Genericos\obj\Debug\Genericos.exe
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Genericos\Genericos\obj\Debug\Genericos.pdb

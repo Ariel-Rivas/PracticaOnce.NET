@@ -1,0 +1,7 @@
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\PracticaOnce_ejer_02\PracticaOnce_ejer_02\obj\Debug\PracticaOnce_ejer_02.csprojAssemblyReference.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\PracticaOnce_ejer_02\PracticaOnce_ejer_02\obj\Debug\PracticaOnce_ejer_02.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\PracticaOnce_ejer_02\PracticaOnce_ejer_02\bin\Debug\PracticaOnce_ejer_02.exe.config
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\PracticaOnce_ejer_02\PracticaOnce_ejer_02\bin\Debug\PracticaOnce_ejer_02.exe
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\PracticaOnce_ejer_02\PracticaOnce_ejer_02\bin\Debug\PracticaOnce_ejer_02.pdb
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\PracticaOnce_ejer_02\PracticaOnce_ejer_02\obj\Debug\PracticaOnce_ejer_02.exe
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\PracticaOnce_ejer_02\PracticaOnce_ejer_02\obj\Debug\PracticaOnce_ejer_02.pdb

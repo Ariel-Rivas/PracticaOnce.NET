@@ -1,0 +1,7 @@
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Tupla\Tupla\obj\Debug\Tupla.csprojAssemblyReference.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Tupla\Tupla\obj\Debug\Tupla.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Tupla\Tupla\bin\Debug\Tupla.exe.config
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Tupla\Tupla\bin\Debug\Tupla.exe
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Tupla\Tupla\bin\Debug\Tupla.pdb
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Tupla\Tupla\obj\Debug\Tupla.exe
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA ONCE\Tupla\Tupla\obj\Debug\Tupla.pdb
